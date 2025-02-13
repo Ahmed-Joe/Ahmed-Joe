@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ahmed Youssef from Egypt. and I'm a a passionate Front-End Developer with a love for creating responsive, user-friendly websites and web applications. I’m constantly learning and excited to build modern web experiences using the latest technologies</p>
+<p align="left">My name is Ahmed from Egypt. and I'm a a passionate Front-End Developer with a love for creating responsive, user-friendly websites and web applications. I’m constantly learning and excited to build modern web experiences using the latest technologies</p>
 
 ###
 
